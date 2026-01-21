@@ -3,7 +3,7 @@
 Computer Science student building practical software and modern web apps.
 
 📍 Fort Collins, CO  
-A.S. Computer Science at Front Range Community College
+A.S. Computer Science at Front Range Community College  
 Currently at CSU for B.S. Computer Science with Data Science Minor
 
 ---
