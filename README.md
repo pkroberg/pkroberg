@@ -21,11 +21,7 @@ Designed, built, and deployed a responsive production website with modern UI, mo
 **CS2 Nade Study Website**  
 Built a website for studying different grenade lineups for Counter-Strike 2
 
----
-
-## Currently
-- Looking for **software engineering internships**
-- Expanding backend and data structure experience
+---  
 
 📫 parker.oberg@colostate.edu
 
