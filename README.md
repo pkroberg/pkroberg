@@ -15,8 +15,8 @@ Currently at CSU for B.S. Computer Science with Data Science Minor
 ---
 
 ## Highlighted Projects
-**Upholstery Company Website (Solo Project)**  
-Designed, built, and deployed a responsive production website with modern UI, mobile support, and client contact forms.  
+**Upholstery Company Website (Client Project)** [focoupholstery.com](https://focoupholstery.com)
+Designed, built, and deployed a responsive production website with modern UI, mobile support, and client contact form.  
   
 **CS2 Nade Study Website**  
 Built a website for studying different grenade lineups for Counter-Strike 2
@@ -24,19 +24,3 @@ Built a website for studying different grenade lineups for Counter-Strike 2
 ---  
 
 📫 parker.oberg@colostate.edu
-
-
-<!--
-**pkroberg/pkroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
