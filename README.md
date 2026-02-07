@@ -18,7 +18,7 @@ Currently at CSU for B.S. Computer Science with Data Science Minor
 **Upholstery Company Website (Client Project)** [focoupholstery.com](https://focoupholstery.com)  
 Designed, built, and deployed a responsive production website with modern UI, mobile support, and client contact form.  
   
-**CS2 Nade Study Website**  
+**CS2 Nade Study Website** [github.io/csgoNades](https://pkroberg.github.io/csgoNades/)  
 Built a website for studying different grenade lineups for Counter-Strike 2
 
 ---  
