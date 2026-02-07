@@ -10,7 +10,7 @@ Currently at CSU for B.S. Computer Science with Data Science Minor
 
 **Languages:** Python, JavaScript, Java, C  
 **Web:** React, Node, Vite, Tailwind  
-**Tools:** Git/GitHub, Linux, VS Code  
+**Tools:** Linux, VS Code, Eclipse  
 
 ---
 
