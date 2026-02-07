@@ -15,7 +15,7 @@ Currently at CSU for B.S. Computer Science with Data Science Minor
 ---
 
 ## Highlighted Projects
-**Upholstery Company Website (Client Project)** [focoupholstery.com](https://focoupholstery.com)
+**Upholstery Company Website (Client Project)** [focoupholstery.com](https://focoupholstery.com)  
 Designed, built, and deployed a responsive production website with modern UI, mobile support, and client contact form.  
   
 **CS2 Nade Study Website**  
