@@ -1,4 +1,4 @@
-## Hey I'm Parker👋
+## Hey I'm Parker!
 
 Computer Science student building practical software and modern web apps.
 
